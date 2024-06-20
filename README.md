@@ -1,0 +1,1 @@
+This project is a clone of Spotify, a popular music streaming service.It replicate the user interface design using HTML and CSS.It aims to provide a visually similar experience to the original Spotify web app,with a responsive design to ensure compatability across various devices.
